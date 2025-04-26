@@ -165,7 +165,7 @@ REST_FRAMEWORK = {
 
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",  # React app URL
+    "https://s3-frontend-eight.vercel.app/",  # React app URL
 ]
 
 
