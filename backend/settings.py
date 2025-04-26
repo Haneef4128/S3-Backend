@@ -28,7 +28,7 @@ DEBUG = False
 
 # ALLOWED_HOSTS = ["*"]
 
-ALLOWED_HOSTS = ['pg-management-backend']
+ALLOWED_HOSTS = ['s3-backend-29sp.onrender.com']
 
 # Application definition
 
